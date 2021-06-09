@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<a href="#"><img src="https://img.gem-flash.com/images/56595260917196387007.jpg" border="0" alt="GEM-FLASH.COM Multi Uploader" /></a>
+<a href="#"><img src="https://img.gem-flash.com/images/56595260917196387007.jpg" border="10" alt="GEM-FLASH.COM Multi Uploader" /></a>
 
 
 
